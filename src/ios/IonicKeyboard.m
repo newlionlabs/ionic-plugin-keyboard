@@ -72,10 +72,10 @@
         return;
     }
     if (hideKeyboardAccessoryBar) {
-        self.webView.hackishlyHidesInputAccessoryView = YES;
+        //self.webView.hackishlyHidesInputAccessoryView = YES; // TODO Make this not crash
     }
     else {
-        self.webView.hackishlyHidesInputAccessoryView = NO;
+        //self.webView.hackishlyHidesInputAccessoryView = NO; // TODO Make this not crash
     }
 
     _hideKeyboardAccessoryBar = hideKeyboardAccessoryBar;
