@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-    id="ionic-plugin-keyboard"
+    id="nl-ionic-plugin-keyboard"
     version="1.0.6">
     <name>Keyboard</name>
-    <description>Ionic Keyboard Plugin</description>
+    <description>Ionic Keyboard Plugin New Lion Version (Disallows custom keyboards on iOS)</description>
     <license>Apache 2.0</license>
     <keywords>Ionic,keyboard</keywords>
-    <repo>https://github.com/driftyco/ionic-plugin-keyboard.git</repo>
-    <issue>https://github.com/driftyco/ionic-plugin-keyboard/issues</issue>
+    <repo>https://github.com/newlionlabs/nl-ionic-plugin-keyboard.git</repo>
+    <issue>https://github.com/newlionlabs/nl-ionic-plugin-keyboard/issues</issue>
 
 
     <!-- android -->

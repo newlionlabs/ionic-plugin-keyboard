@@ -1,8 +1,8 @@
 {
-  "name": "ionic-plugin-keyboard",
+  "name": "nl-ionic-plugin-keyboard",
   "version": "1.0.6",
   "cordova": {
-    "id": "ionic-plugin-keyboard",
+    "id": "nl-ionic-plugin-keyboard",
     "platforms": [
       "android",
       "ios",
@@ -11,9 +11,9 @@
       "windows"
     ]
   },
-  "description": "Ionic Keyboard Plugin",
-  "repository": "https://github.com/driftyco/ionic-plugin-keyboard.git",
-  "issue": "https://github.com/driftyco/ionic-plugin-keyboard/issues",
+  "description": "Ionic Keyboard Plugin New Lion Version (Disallows custom keyboards on iOS)",
+  "repository": "https://github.com/newlionlabs/nl-ionic-plugin-keyboard.git",
+  "issue": "https://github.com/newlionlabs/nl-ionic-plugin-keyboard/issues",
   "keywords": [
     "ionic",
     "cordova",
